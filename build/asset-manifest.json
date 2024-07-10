@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3cdc9ea1.chunk.css",
+    "main.js": "/static/js/main.17264865.chunk.js",
+    "main.js.map": "/static/js/main.17264865.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1f0aadae.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1f0aadae.js.map",
+    "static/css/2.68339f15.chunk.css": "/static/css/2.68339f15.chunk.css",
+    "static/js/2.dda9a689.chunk.js": "/static/js/2.dda9a689.chunk.js",
+    "static/js/2.dda9a689.chunk.js.map": "/static/js/2.dda9a689.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.68339f15.chunk.css.map": "/static/css/2.68339f15.chunk.css.map",
+    "static/css/main.3cdc9ea1.chunk.css.map": "/static/css/main.3cdc9ea1.chunk.css.map",
+    "static/js/2.dda9a689.chunk.js.LICENSE.txt": "/static/js/2.dda9a689.chunk.js.LICENSE.txt",
+    "static/media/Syntheticdataimage2.12133cd7.png": "/static/media/Syntheticdataimage2.12133cd7.png",
+    "static/media/ai.c5e43b3f.png": "/static/media/ai.c5e43b3f.png",
+    "static/media/zensarlogo.63409a37.png": "/static/media/zensarlogo.63409a37.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f0aadae.js",
+    "static/css/2.68339f15.chunk.css",
+    "static/js/2.dda9a689.chunk.js",
+    "static/css/main.3cdc9ea1.chunk.css",
+    "static/js/main.17264865.chunk.js"
+  ]
+}
